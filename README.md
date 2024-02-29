@@ -10,6 +10,6 @@ This repo uses the module from hand tracking and applies a little math to count 
 
 
 To run:
-'''
+```
 python FingerCountingProject.py
-'''
+```
