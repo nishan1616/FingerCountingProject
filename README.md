@@ -7,4 +7,5 @@ This repository is built mainly on Mediapipe and OpenCV. While MediaPipe offers 
 This repo uses the module from hand tracking and applies a little math to count the number of fingers. This may come in handy when you want your computer to do some tasks depending upon the number of fingers you are holding up.
 
 
-https://github.com/nishan1616/FingerCountingProject/blob/master/demo.PNG
+
+![demo](https://github.com/nishan1616/FingerCountingProject/assets/157087473/119639d8-b3dc-44c4-bb89-2c160975a6c4)
